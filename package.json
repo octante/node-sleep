@@ -15,7 +15,7 @@
     "url":  "https://github.com/ErikDubbelboer/node-sleep.git"
   },
   "dependencies": {
-    "nan": ">=2.0.0"
+    "nan": ">=2.1.0"
   },
   "gypfile": true
 }
